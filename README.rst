@@ -1,7 +1,7 @@
 Obnam in a buildout
 ===================
 
-This builodut was created in order to make `obnam <http://liw.fi/obnam/>`_
+This buildout was created in order to make `obnam <http://liw.fi/obnam/>`_
 ready for releaes at PyPI.
 
 It uses slightlythe  modified forks
