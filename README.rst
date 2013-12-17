@@ -4,8 +4,10 @@ Obnam in a buildout
 This builodut was created in order to make `obnam <http://liw.fi/obnam/>`_
 ready for releaes at PyPI.
 
-It uses slightly modified forks of ``obnam`` and ``larch``so far. Modifications
-are in packaging only.
+It uses slightlythe  modified forks
+`obnam (fork) <https://github.com/jensens/obnam>`_ and
+`larch (fork) <https://github.com/jensens/larch>`_
+so far. **Modifications are packaging-related only**
 
 
 Installation
